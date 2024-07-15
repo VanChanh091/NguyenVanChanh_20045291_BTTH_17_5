@@ -1,0 +1,7 @@
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_15_7\bai12\bai12\bin\Debug\bai12.exe.config
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_15_7\bai12\bai12\bin\Debug\bai12.exe
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_15_7\bai12\bai12\bin\Debug\bai12.pdb
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_15_7\bai12\bai12\obj\Debug\bai12.csproj.AssemblyReference.cache
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_15_7\bai12\bai12\obj\Debug\bai12.csproj.CoreCompileInputs.cache
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_15_7\bai12\bai12\obj\Debug\bai12.exe
+D:\20045291\KiemThu\BT_Tuan\BT_TH\NguyenVanChanh_20045291_15_7\bai12\bai12\obj\Debug\bai12.pdb
